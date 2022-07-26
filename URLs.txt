@@ -1,0 +1,4 @@
+https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
+
+
+https://medium.com/@sabber/classifying-yelp-review-comments-using-cnn-lstm-and-pre-trained-glove-word-embeddings-part-3-53fcea9a17fa
